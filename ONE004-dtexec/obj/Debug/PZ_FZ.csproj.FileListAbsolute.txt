@@ -1,0 +1,13 @@
+C:\Users\magdaw\Documents\optima 32\PZ_FZ.exe.config
+C:\Users\magdaw\Documents\optima 32\PZ_FZ.exe
+C:\Users\magdaw\Documents\optima 32\PZ_FZ.pdb
+C:\Users\magdaw\Documents\Petrole\PZ-FZ\ONE004-dtexec\obj\Debug\PZ_FZ.csproj.AssemblyReference.cache
+C:\Users\magdaw\Documents\Petrole\PZ-FZ\ONE004-dtexec\obj\Debug\Interop.OP_PRINTLib.dll
+C:\Users\magdaw\Documents\Petrole\PZ-FZ\ONE004-dtexec\obj\Debug\PZ_FZ.csproj.ResolveComReference.cache
+C:\Users\magdaw\Documents\Petrole\PZ-FZ\ONE004-dtexec\obj\Debug\PZ_FZ.Properties.Resources.resources
+C:\Users\magdaw\Documents\Petrole\PZ-FZ\ONE004-dtexec\obj\Debug\PZ_FZ.csproj.GenerateResource.cache
+C:\Users\magdaw\Documents\Petrole\PZ-FZ\ONE004-dtexec\obj\Debug\PZ_FZ.csproj.CoreCompileInputs.cache
+C:\Users\magdaw\Documents\Petrole\PZ-FZ\ONE004-dtexec\obj\Debug\PZ_FZ.csproj.Fody.CopyLocal.cache
+C:\Users\magdaw\Documents\Petrole\PZ-FZ\ONE004-dtexec\obj\Debug\PZ_FZ.csproj.CopyComplete
+C:\Users\magdaw\Documents\Petrole\PZ-FZ\ONE004-dtexec\obj\Debug\PZ_FZ.exe
+C:\Users\magdaw\Documents\Petrole\PZ-FZ\ONE004-dtexec\obj\Debug\PZ_FZ.pdb
